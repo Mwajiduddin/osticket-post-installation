@@ -60,7 +60,7 @@ Go to your VM's C:\\ path and create a new folder called "PHP." Then download [P
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/e8.png" />
 </p>
 
-Extract its content into the new PHP folder by right clicking on the download folder and selecting the "Extract All" and select the path of the PHP folder you made in your C: drive. 
+Extract its content into the new PHP folder by right clicking on the download folder, selecting "Extract All" and selecting the path of the PHP folder you made in your C: drive. 
 
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/e9.png" />
