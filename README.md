@@ -28,7 +28,7 @@ Log in Azure, go into Virtual machines, create a new Resource group, name it, se
 
 <h3>Step 2: Enabling Internet Information Services (IIS) and installing CGI, PHP Manager, and Rewrite Module in your VM</h3>
 
-Log into your Windows 10 Pro VM using Remote Desktop Connection, search "Control Panel" in the Windows search bar, click on "Programs", select "Turn Windows feature on or off", check the box next to "Internet Information Services" and expand it, expand "World Wide Web Services", expand "Application Development Features", check the CGI box and press OK. CGI install PHP Manager which is necessary for osTicket to run.
+Log into your Windows 10 Pro VM using Remote Desktop Connection, search "Control Panel" in the Windows search bar, click on "Programs", select "Turn Windows feature on or off", check the box next to "Internet Information Services" and expand it, expand "World Wide Web Services", expand "Application Development Features", check the CGI box and press OK. CGI installs PHP Manager which is necessary for osTicket to run.
 
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/e3.png" />
