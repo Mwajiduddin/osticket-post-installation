@@ -31,11 +31,12 @@ Do the same process for creating your second agent (Joe Smith) only in the "Acce
 
 <h3>Step 4: Configuring Users and Service Level Agreements (SLAs) </h3>
 
-Users are the customers with issue that needs to be fix, in this step we will create to users: Karen Smith and Ken Smith. To add a user, click on "Agent Panel" select "User Directory" under the "Users" tab and click on "Add user." Service Level Agreements (SLAs) are the amount of time that a issue needs to be fixed, in this step we will be create three separate SLAs with different grace periods. To start, go back to the Admin Panel, select on "SLA" under the "Manage" tab and click "Add New SLA Plan." The first SLA plan will have a grace period of one hour then select 24/7 under "Schedule" and click "Add Plan." The second SLA will have a grace period of four hours and a schedule of 24/7. The last SLA will have a grace period of eight hours and choose "Monday-Friday 8am-5pm with U.S. Holidays" for its schedule.
+Users are the customers with issue that needs to be fix, in this step we will create to users: Karen Smith and Ken Smith. To add a user, click on "Agent Panel" select "User Directory" under the "Users" tab and click on "Add user." Service Level Agreements (SLAs) are the amount of time that a issue needs to be fixed, in this step we will be create three separate SLAs with different grace periods. To start, go back to the Admin Panel, select on "SLA" under the "Manage" tab and click "Add New SLA Plan." The first SLA plan will have a grace period of one hour then select 24/7 under "Schedule" and click "Add Plan." The second SLA will have a grace period of four hours and a schedule of 24/7. The last SLA will have a grace period of eight hours and choose "Monday-Friday 8am-5pm with U.S. Holidays" for its schedule. 
 
 
+<h3>Step 5: Configuring Help Topics (SLAs) </h3>
 
-
+Help Topics are basically categories that an issue can be filed under so that it goes to the appropriate Agents to get fixed, here we will be making four help topics: Business Critical Outage, PC Issues, Equipment Reset, and Password Reset. Go to "Admin Panel", select "Help Topics" under "Manage" and click on "Add New Help Topic." Then type in the name of the topic and hit "Add Topic"; do this for each topic.
 
 
 
