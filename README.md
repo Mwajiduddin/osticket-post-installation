@@ -130,7 +130,7 @@ Help Topics are basically categories that an issue can be filed under so that it
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/f21.png" />
 </p>
  
-In the next tutorial we will be playing around wtih osTicket and show how to create a ticket, change its configurations and resolve one so don't tear down your virtual machine just yet.
+  >**Note**: *In the next tutorial we will be playing around wtih osTicket and show how to create a ticket, change its configurations and resolve one so don't tear down your virtual machine just yet.*
 
 
 
