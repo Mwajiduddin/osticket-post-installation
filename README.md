@@ -104,7 +104,7 @@ Users are the customers with issue that needs to be solved, in this step we will
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/f17.png" />
 </p>
 
-Service Level Agreements (SLAs) are the amount of time that a issue needs to be fixed within an allotted time, in this step we will be create three separate SLAs with different grace periods to help you get an idea of a ticket's lifecycle. To start, go back to the Admin Panel, select on "SLA" under the "Manage" tab and click on "Add New SLA Plan." 
+Service Level Agreement (SLA) is the amount of time that an issue needs to be fixed within an allotted time, in this step we will be create three separate SLAs with different grace periods to help you get an idea of a ticket's lifecycle. To start, go back to the Admin Panel, select on "SLA" under the "Manage" tab and click on "Add New SLA Plan." 
 
  <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/f18.png" />
