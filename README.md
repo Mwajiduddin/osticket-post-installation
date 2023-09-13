@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png"/>
 </p>
 
-<h1>Introduction</h1>
+<h1>Overview</h1>
 This tutorial will show the ins and outs and configuration settings on osTicket.<br />
 
 
